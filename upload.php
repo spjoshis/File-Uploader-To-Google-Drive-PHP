@@ -1,7 +1,6 @@
 <?php
-  require_once __DIR__ . '/vendor/autoload.php';
 
-
+require_once __DIR__ . '/vendor/autoload.php';
 /**
 *   Google Drive Class
 */
@@ -87,10 +86,4 @@ class GoogleDrive
     );
     return $file;
   }
-}
-
-$drive = new GoogleDrive();
-$file = $drive->upload('files/', 'photo.gif');
-if (!empty($file->id)) {
-  printf("File Uploaded Successfully! [ID: %s\n", $file->id.']');
 }
