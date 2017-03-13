@@ -8,6 +8,7 @@ Usage:
 
 <b>Update Composer</b>
 <pre><code>$ composer update</code></pre>
+<p>Generate Google Secret File from https://console.developers.google.com/ and save it in `secrets` folder.</p>
 
 <b>Include upload.php</b>
 <pre><code>&lt;?php
