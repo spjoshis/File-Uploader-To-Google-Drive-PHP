@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/spjoshis/File-Uploader-To-Google-Drive-PHP.svg)](https://github.com/spjoshis/File-Uploader-To-Google-Drive-PHP/issues) [![GitHub stars](https://img.shields.io/github/stars/spjoshis/File-Uploader-To-Google-Drive-PHP.svg)](https://github.com/spjoshis/File-Uploader-To-Google-Drive-PHP/stargazers) [![GitHub license](https://img.shields.io/github/license/spjoshis/File-Uploader-To-Google-Drive-PHP.svg)](https://github.com/spjoshis/File-Uploader-To-Google-Drive-PHP)
+    
 # File-Uploader-To-Google-Drive-PHP
 Upload File to Google Drive Using PHP
 
